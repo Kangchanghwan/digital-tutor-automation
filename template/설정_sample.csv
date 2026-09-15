@@ -1,0 +1,12 @@
+항목,값,설명
+OWNER_EMAIL,your-email@gmail.com,알림/서류 PDF를 받을 이메일 (캘린더 소유자)
+TUTOR_NAME,홍길동,성명 (서류 작성자)
+TUTOR_TITLE,디지털튜터,직
+SCHOOL_NAME,○○중학교,학교명
+SCHOOL_YEAR,2026학년도,학년도 (서류 제목)
+DEFAULT_PLACE,디지털 교실,기본 근무장소
+TITLE_PREFIX,[디지털튜터],캘린더 일정 제목 앞에 붙는 말
+DEFAULT_ACTIVITY,디지털 기기 점검 및 수업 지원 준비,요청이 없는 날의 지도 내용
+DEFAULT_CLASS,전체,요청이 없는 날의 지도반
+MEAL_REASON,근무,급식확인서 급식사유
+MEAL_CUTOFF,13:00,급식 포함 기준: 이 시각 이후에 퇴근하는 날만 급식
